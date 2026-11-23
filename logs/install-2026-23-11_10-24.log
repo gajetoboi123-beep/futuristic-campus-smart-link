@@ -1,0 +1,14 @@
+Futuristic Campus Smart Link - Install Log 
+Started: 23/11/2026 10:24:50.17 
+Project: futuristic-campus-smart-link.base44.app 
+================================================= 
+Python 3.15.2
+[2/4] Checking Node.js... 
+'node' is not recognized as an internal or external command,
+operable program or batch file.
+WARNING: Node.js not found. Base44 still works online. 
+[3/4] Checking Git... 
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+WARNING: Git not found. Install Git to use GitHub connect. 
+[4/4] Installing Python libraries from requirements.txt... 
